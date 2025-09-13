@@ -40,7 +40,7 @@
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/ofrinahum)  
-- [GitLab]((https://gitlab.com/Ofrinahum))  
-- [LinkedIn](www.linkedin.com/in/ofri-nahum)  
+- [GitLab](https://gitlab.com/Ofrinahum)  
+- [LinkedIn](www.linkedin.com/in/ofri-nahum)
 
 ---
